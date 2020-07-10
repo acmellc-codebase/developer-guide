@@ -49,7 +49,7 @@
 对 `dev` 仓库代码的更新，必须以 `fork + pull request` 的形式进行。
 
 
-禁止 🈲 向 `master push` 代码， `master` 只允许接受来自 dev 分支的合并。
+禁止 🈲 向 `master push` 代码， `master` 只允许来自 dev 分支的合并。
 
 
 另外请注意：❤️ 上下班的定义为，`上午` 和 `下午` 。 每人每天需要有两次 `pull` 最新分支 + `pull request` 提交开发的代码到开发仓库。
