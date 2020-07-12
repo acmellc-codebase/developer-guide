@@ -66,5 +66,5 @@
 
 ### Refs
 
-[1] 同步 fork （获取本组织的最新版开发代码）详见： https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
+[1] 同步 fork （获取本组织的最新开发版代码）详见： https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
 
