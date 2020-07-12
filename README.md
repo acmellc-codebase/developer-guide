@@ -16,7 +16,7 @@
  ### 代码开发与提交流程
  
 
-1. 每天 `上班后` 统一  `pull` 项目的最新代码（本组织仓库中的 `dev` 分支）到本地开始开发工作。
+1. 每天 `上班后` 统一  `pull` 项目的最新代码[1]（本组织仓库中的 `dev` 分支）到本地开始开发工作。
 
 
 2. 每天 `下班前` 统一发起 `pull request` 提交 `工作期间` 所写的代码。
@@ -63,4 +63,8 @@
 
 
 本组织的所有github账号必须 `开启双因素验证`
+
+### Refs
+
+[1] 同步 fork （获取本组织的最新版开发代码）详见： https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
 
